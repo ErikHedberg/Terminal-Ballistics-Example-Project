@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "TerminalBallistics",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/db6020bf42c840a89c24968132f092a4"
 		}
 	]
 }

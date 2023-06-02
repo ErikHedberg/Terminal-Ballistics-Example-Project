@@ -1,0 +1,6 @@
+Intermediate/
+Binaries/
+Plugins/
+Saved/
+
+!Intermediate/ShaderAutogen/

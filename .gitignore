@@ -1,0 +1,8 @@
+*.sln
+.vsconfig
+.vs
+Intermediate/
+Plugins/
+Saved/
+!Saved/Config/
+Binaries/

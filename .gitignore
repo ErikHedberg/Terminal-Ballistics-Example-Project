@@ -5,3 +5,7 @@ Saved/
 
 !Intermediate/ShaderAutogen/
 !Saved/Config/
+test/
+.vs
+*.sln
+*.vsconfig

@@ -1,11 +1,9 @@
+*.sln
+.vsconfig
+.vs
 Intermediate/
-Binaries/
 Plugins/
 Saved/
-
-!Intermediate/ShaderAutogen/
 !Saved/Config/
+Binaries/
 test/
-.vs
-*.sln
-*.vsconfig

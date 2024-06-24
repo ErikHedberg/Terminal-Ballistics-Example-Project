@@ -8,8 +8,9 @@ public class PluginTestTarget : TargetRules
 	public PluginTestTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+        DefaultBuildSettings = BuildSettingsVersion.Latest;
+        IncludeOrderVersion = EngineIncludeOrderVersion.Latest;
 
-		ExtraModuleNames.AddRange( new string[] { "PluginTest" } );
+        ExtraModuleNames.AddRange( new string[] { "PluginTest" } );
 	}
 }
